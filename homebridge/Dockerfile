@@ -19,7 +19,7 @@ RUN \
         avahi=0.7-r1 \
         avahi-compat-libdns_sd=0.7-r1 \
         dbus=1.10.24-r1 \
-        git=2.18.0-r0 \
+        git=2.18.1-r0 \
         nodejs=8.11.4-r0 \
         npm=8.11.4-r0 \
     \
