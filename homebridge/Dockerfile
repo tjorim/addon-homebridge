@@ -21,7 +21,7 @@ RUN \
         dbus=1.10.24-r1 \
         git=2.18.0-r0 \
         nodejs=8.11.4-r0 \
-        nodejs-npm=8.11.4-r0 \
+        npm=8.11.4-r0 \
     \
     && npm set unsafe-perm true \
     \
